@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tikikar
 - 👀 I’m interested in absolutely anything that makes me curious
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on prjects involving python and/or c/c++
+- 💞️ I’m looking to collaborate on projects involving python and/or c/c++
 - 📫 How to reach me kartikiu@gmail.com
 
 <!---
